@@ -52,7 +52,7 @@ body {
     width: 40rem;
     margin-top: 10rem;
 }
-@media only screen and (max-width:1000px){
+@media only screen and (max-width:1200px){
     #me img{
         width: 20rem;
         margin-top: 10rem;
